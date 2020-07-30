@@ -3,7 +3,7 @@
 ![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/jaikoo-blue.png)
 
 
-> Crush your enemies. See them driven before you and hear the lamentation of their AI's
+> Crush your enemies. See them driven before you and hear the lamentation of their AI's - GPT-3
 
 ## Jonathan Conway
 Hi, this is the Github profile for Jonathan Conway. 
