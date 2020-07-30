@@ -1,6 +1,6 @@
 ### JAIKOO
 
-![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/jaikoo-red-blue.png)
+![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/jaikoo-blue.png)
 <!--
 **jaikoo/jaikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
