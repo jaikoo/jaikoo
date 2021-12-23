@@ -10,8 +10,8 @@ Hi, this is the Github profile for Jonathan Conway.
 
 
 - 🔭 I’m currently working on a secret project
-- 👯 I’m looking to collaborate on Payments, FinTech, Go and Elixir projects
-- 💬 Ask me about Open Banking, PSD2, SRC, Payments, FinTech, building APIs, cloud automation and K8s
+- 👯 I’m looking to collaborate on Payments anbd DeFi projects
+- 💬 Ask me about Open Banking, PSD2, SRC, Payments, FinTech and Cheese Cake
 - 📫 How to reach me: Twitter or email. Links on the side.
 - ⚡ Fun fact: Hapa - I live in the UK but grew up in Hawaii.
 
