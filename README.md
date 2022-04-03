@@ -9,7 +9,7 @@
 Hi, this is the Github profile for Jonathan Conway. 
 
 
-- 🔭 I’m currently working on a DeFi project that bridges payments and identity
+- 🔭 I’m currently working on a Web3 Bank
 - 👯 I’m looking to collaborate on Payments anbd DeFi projects
 - 💬 Ask me about Open Banking, PSD2, SRC, Payments, FinTech and Cheese Cake
 - 📫 How to reach me: Twitter or email. Links on the side.
