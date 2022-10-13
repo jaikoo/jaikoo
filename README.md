@@ -9,7 +9,7 @@
 Hi, this is the Github profile for Jonathan Conway. 
 
 
-- 💬 Ask me about Open Banking, PSD2, SRC, Payments, FinTech and Cheese Cake
+- 💬 Ask me about Open Banking, Card, PSD2, Payments, FinTech, Web3 and Cheese Cake
 - 📫 How to reach me: Twitter or email. Links on the side.
 - ⚡ Fun fact: Hapa - I live in the UK but grew up in Hawaii.
 
