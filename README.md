@@ -1,6 +1,6 @@
 # JAIKOO
 
-![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/jaikoo-blue.png)
+![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/jaikoo-with-clark.png)
 
 
 > Crush your enemies. See them driven before you and hear the lamentation of their AI's - GPT-3
