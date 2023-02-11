@@ -14,5 +14,11 @@ Hi, this is the Github profile for Jonathan Conway also known as Jaikoo.
 - ⚡ Fun fact: Hapa - I live in the UK but grew up in Hawaii.
 
 
+
+
+
+
+P.S I love coffee
+
 ![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/cute-coffee-robot.png)
 
