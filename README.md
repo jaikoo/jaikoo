@@ -6,7 +6,7 @@
 > Crush your enemies. See them driven before you and hear the lamentation of their AI's - GPT-3
 
 ## Jonathan Conway
-Hi, this is the Github profile for Jonathan Conway. 
+Hi, this is the Github profile for Jonathan Conway also known as Jaikoo. 
 
 - 🤟 Rust and Elixir
 - 💬 Ask me about Open Banking, Card, PSD2, Payments, FinTech, Web3 and Cheese Cake
