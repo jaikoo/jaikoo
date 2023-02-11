@@ -8,7 +8,7 @@
 ## Jonathan Conway
 Hi, this is the Github profile for Jonathan Conway. 
 
-- 🤟 Rust, Go, Typescript and Elixir
+- 🤟 Rust and Elixir
 - 💬 Ask me about Open Banking, Card, PSD2, Payments, FinTech, Web3 and Cheese Cake
 - 📫 How to reach me: Twitter or email. Links on the side.
 - ⚡ Fun fact: Hapa - I live in the UK but grew up in Hawaii.
