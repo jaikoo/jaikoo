@@ -16,9 +16,5 @@ Hi, this is the Github profile for Jonathan Conway also known as Jaikoo.
 
 
 
-
-
-P.S I love coffee
-
-![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/cute-coffee-robot.png)
+![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/clark-with-a-dragon.png)
 
