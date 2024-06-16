@@ -15,6 +15,3 @@ Hi, this is the Github profile for Jonathan Conway also known as Jaikoo.
 
 
 
-
-![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/clark-with-a-dragon.png)
-
