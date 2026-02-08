@@ -8,7 +8,7 @@
 ## Jonathan Conway
 Hi, this is the Github profile for Jonathan Conway also known as Jaikoo. 
 
-- 🤟 Rust, Elixir & Web3
+- 🤟 Rust, Elixir, Bun & Blockchain
 - 💬 Ask me about Payments (Open Banking, Card, Banking, Digital Wallets), Core Banking, FinTech, DeFi, RWA's and AI
 - 📫 How to reach me: Twitter or email. Links on the side.
 - ⚡ Fun fact: Hapa - I live in the UK but grew up in Hawaii.
