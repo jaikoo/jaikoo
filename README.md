@@ -1,7 +1,5 @@
 # JAIKOO
 
-![jaikoo](https://github.com/jaikoo/jaikoo/raw/master/images/jaikoo-walking-with-clark.png)
-
 
 > Crush your enemies. See them driven before you and hear the lamentation of their overly quantized large language models.
 
